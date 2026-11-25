@@ -1,5 +1,5 @@
-import { option, list, report, selectors } from '@cairul/plugin-kit/runner';
-import { testng } from '@cairul/plugin-kit/reports';
+import { option, list, report, selectors } from '@cairul/pdk/runner';
+import { testng } from '@cairul/pdk/reports';
 
 export default {
   command: undefined,
